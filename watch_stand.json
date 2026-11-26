@@ -1,10 +1,10 @@
 {
-  "datum": "2026-11-25 22:53",
+  "datum": "2026-11-26 10:21",
   "letzter": {
     "github_sterne": 2,
     "github_forks": 0,
     "github_follower": 13,
-    "release_downloads": 28,
+    "release_downloads": 29,
     "hf_modelle": 13,
     "hf_downloads": 6334,
     "hf_likes": 8,
@@ -17,6 +17,6 @@
     "status_HF-API": 200,
     "status_HF-Translate": 200,
     "status_GitHub": 200,
-    "gh_api_rest": 35
+    "gh_api_rest": 57
   }
 }
