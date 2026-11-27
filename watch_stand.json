@@ -1,15 +1,15 @@
 {
-  "datum": "2026-11-27 10:27",
+  "datum": "2026-11-27 22:27",
   "letzter": {
     "github_sterne": 2,
     "github_forks": 0,
     "github_follower": 13,
     "release_downloads": 30,
     "hf_modelle": 13,
-    "hf_downloads": 6334,
+    "hf_downloads": 7113,
     "hf_likes": 8,
-    "hf_dataset_downloads": 183,
-    "bsky_follower": 7,
+    "hf_dataset_downloads": 191,
+    "bsky_follower": 11,
     "bsky_posts": 1,
     "status_Website": 200,
     "status_HF-Modell": 200,
@@ -17,6 +17,6 @@
     "status_HF-API": 200,
     "status_HF-Translate": 200,
     "status_GitHub": 200,
-    "gh_api_rest": 56
+    "gh_api_rest": 55
   }
 }
